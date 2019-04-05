@@ -11,3 +11,6 @@ Most recently, I have been working at Pearson as a Director of Product, where I 
 	• managed our departmental budget, 
 
 responsible for our official partnership alliances with Microsoft, Apple, Adobe, IBM and AARP. 
+
+This is a new line about my job at Elanco.
+Global Digital Consultant
